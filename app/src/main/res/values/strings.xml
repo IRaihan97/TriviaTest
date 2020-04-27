@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TriviaTest</string>
+    <string name="title">Trivia</string>
+    <string name="True">TRUE</string>
+    <string name="False">FALSE</string>
+    <string name="counter">0/100</string>
+    <string name="correct_answer">CORRECT!</string>
+    <string name="wrong_answer">WRONG!</string>
+    <string name="reset">Reset Highest Score</string>
+</resources>
